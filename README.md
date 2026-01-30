@@ -27,7 +27,6 @@ Worked on detecting and handling outliers using the Z-score method and capping
 extreme values.
 
 Kshitija satpute
-
 Worked on feature selection using correlation and helped with documentation
 and final review of the project.
 
